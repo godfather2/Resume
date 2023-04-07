@@ -2,6 +2,7 @@
 %\documentclass[]{file}
 \usepackage[margin=0.2in]{geometry}
 \usepackage{romannum}
+\usepackage{hyperref}
 \usepackage[most]{tcolorbox}
 \usepackage{enumitem}
 \usepackage{multicol}
@@ -25,8 +26,8 @@
 \begin{flushleft}
 \noindent {\huge\textbf{Hitesh Holkar}}
 \end{flushleft}
-3rd Year Undergraduate  \hfill\textbf{Email : }hiteshholkar007@gmail.com
-\\Department of Mechanical Engineering \hfill\textbf{Phone : }+91-9380075530
+Bachelor of Technology, Dept. of Mechanical Engineering, IIT Kanpur  \hfill\textbf{Email : }hiteshholkar007@gmail.com
+\\ \href{https://www.linkedin.com/in/hitesh-holkar-616288185/}{Something Linky} \hfill\textbf{Phone : }+91-9380075530
 \vspace{-6pt}
 \\
 \noindent\rule[0.5ex]{\linewidth}{1pt}
