@@ -26,8 +26,8 @@
 \begin{flushleft}
 \noindent {\huge\textbf{Hitesh Holkar}}
 \end{flushleft}
-Bachelor of Technology, Dept. of Mechanical Engineering, IIT Kanpur  \hfill\textbf{Email : }hiteshholkar007@gmail.com
-\\ \href{https://www.linkedin.com/in/hitesh-holkar-616288185/}{Something Linky} \hfill\textbf{Phone : }+91-9380075530
+Bachelor of Technology, Dept. of Mechanical Engineering, IIT Kanpur  \hfill\textbf{Email : } \href{mailto:hiteshholkar007@gmail.com}{hiteshholkar007@gmail.com}
+\\ \href{https://www.linkedin.com/in/hitesh-holkar-616288185/}{\textbf{in:} hiteshh} \hfill\textbf{Phone : }+91-9380075530
 \vspace{-6pt}
 \\
 \noindent\rule[0.5ex]{\linewidth}{1pt}
@@ -49,11 +49,12 @@ Bangalore} & 80$\%$\\
 \medskip
 {\large \textbf{\begin{tcolorbox}\textsc{Key Projects}\end{tcolorbox}}}
 \begin{itemize}
-\item \textbf{Snowball: Co-founded Start up at E-cell IIT Kanpur} 
+\item \textbf{Snowball: Co-founded Start up at E-cell IIT Kanpur}
+\hfill\hfill(\textit{Mar'17- Ongoing})\\\emph{Co Founder: Ragha Abhinaya M, IIT Kanpur 'Y18; Supervisor: Ajay C. Jakle}
 \begin{itemize}
-\item Successfully pitched Snowball, a fund raising platform for non profits, at a startup bootcamp organized by Wadhwani Foundation, hosted by E cell IITK, securing a spot amongst the top startups. Conducted extensive market research and surveyed 15 decision makers of Non Profits all over India, and around 10 potential users to create an MVP and a pitch deck that included customer persona and competition analysis.
-\item Gathered user feedback and recognized the product's shortcomings, leading to a strategic pivot. Demonstrated strong problem-solving skills by adapting to new insights and pivoting the product to better fit the market demand.
-\item Built a data-driven approach and a user-focused mindset to product development by conducting market research, surveys and building an MVP, which ultimately led to a better understanding of user needs and preferences. Showcased strong leadership skills by working collaboratively with a team of two to execute on this product vision.
+\item Successfully pitched Snowball, a fund raising platform for non profits, at a \textbf{startup bootcamp} organized by \textbf{Wadhwani Foundation}, hosted by \textbf{E cell IITK}, securing a spot amongst the top startups. 
+\item Conducted extensive \textbf{market research} and interviewed \textbf{15} decision makers of Non Profits all over India, and around \textbf{10} potential users to create an \textbf{MVP} and a \textbf{pitch deck} that included \textbf{customer persona} and \textbf{competition analysis}.
+\item Made strategic \textbf{pivots} in light of \textbf{user feedback}, but ultimately decided to shut down due to negative user response and lack of traction.
 \end{itemize}
 \item \textbf{CTO-Ninja: Freelance Business Associate}\hfill\hfill(\textit{May'17-Ongoing})
 \begin{itemize}
@@ -64,12 +65,12 @@ Bangalore} & 80$\%$\\
 \end{itemize}
 \item \textbf{Terasology: Open source — Contributor}
 \begin{itemize}
-\item An open source sandbox game similar to minecraft, that runs primarily
-on Java.
-\item Contributed using Github, by collaborating with a multi-national team of
+\item An \textbf{open source sandbox game} similar to \textbf{Minecraft}, that runs primarily
+on \textbf{Java}.
+\item Contributed using \textbf{Github}, by collaborating with a \textbf{multi-national team} of
 core contributors to implement various types of gameplay settings in a
 voxel world
-\item Enhanced the gameplay experience by implementing health loss on
+\item \textbf{Enhanced the gameplay experience} by implementing health loss on
 entering hazards, rewards on quest completion, time synchronization on all
 players in a multiplayer game, changes in physical capabilities according to
 change in height of character
