@@ -37,7 +37,7 @@ Bachelor of Technology, Dept. of Mechanical Engineering, IIT Kanpur  \hfill\text
 \hline
 \centering{\textbf{Year}} & \centering{\textbf{Degree/Certificate}} & \centering{\textbf{Institute}} & \textbf{CPI/$\%$}\\
 \hline
-\centering{2022}  & \centering{B.Tech} & \centering{Indian Institute of Technology, Kanpur} & 5.6/10\\
+\centering{2022}  & \centering{B.Tech, Mechanical Engineering} & \centering{Indian Institute of Technology, Kanpur} & 5.6/10\\
 \hline
 \centering{2018} & \centering{State(\Romannum{12})} & \centering{Krupanidhi PU College,
 Bangalore} & 80$\%$\\
@@ -47,42 +47,45 @@ Bangalore} & 80$\%$\\
 \end{tabular}
 \end{center}
 \medskip
-{\large \textbf{\begin{tcolorbox}\textsc{Key Projects}\end{tcolorbox}}}
+{\large \textbf{\begin{tcolorbox}\textsc{Experience}\end{tcolorbox}}}
 \begin{itemize}
 \item \textbf{Snowball: Co-founded Start up at E-cell IIT Kanpur}
-\hfill\hfill(\textit{Mar'17- Ongoing})\\\emph{Co Founder: Ragha Abhinaya M, IIT Kanpur 'Y18; Supervisor: Ajay C. Jakle}
+\hfill\hfill(\textit{Nov'22- Jan'23})\\\emph{Co Founder- Ragha Abhinaya M, IIT Kanpur Y18; Supervisor- Shivani Varshney, Consultant, Wadhwani Foundation}
 \begin{itemize}
 \item Successfully pitched Snowball, a fund raising platform for non profits, at a \textbf{startup bootcamp} organized by \textbf{Wadhwani Foundation}, hosted by \textbf{E cell IITK}, securing a spot amongst the top startups. 
-\item Conducted extensive \textbf{market research} and interviewed \textbf{15} decision makers of Non Profits all over India, and around \textbf{10} potential users to create an \textbf{MVP} and a \textbf{pitch deck} that included \textbf{customer persona} and \textbf{competition analysis}.
-\item Made strategic \textbf{pivots} in light of \textbf{user feedback}, but ultimately decided to shut down due to negative user response and lack of traction.
+\item Conducted \textbf{market research} and created \textbf{pitch deck} that included \textbf{customer persona} and \textbf{competition analysis}.
+\item Interviewed \textbf{10} potential \textbf{users} and \textbf{15 decision makers} of \textbf{Non Profits} all over India to create an \textbf{MVP}.
+\item Made strategic \textbf{pivots} in light of \textbf{user feedback}, but ultimately decided to discontinue due to lack of traction.
 \end{itemize}
-\item \textbf{CTO-Ninja: Freelance Business Associate}\hfill\hfill(\textit{May'17-Ongoing})
+\item \textbf{CTO-Ninja: Freelance Business Associate}\hfill\hfill(\textit{Jan'23-Ongoing})
+\\ \emph{Supervisor- Shivam Kr. Shiv, Founder, CTO-Ninja}
 \begin{itemize}
-\item Successfully utilized LinkedIn Sales Navigator strategies and attended industry meetups to expand my professional network and engage with prospects from diverse regions, resulting in increased lead generation and revenue opportunities for CTO-Ninja.
-\item Utilized Beautiful Soup to gather sponsored websites on Google, employed an email finder tool to obtain email addresses for each website, and utilized Mailchimp to send audit reports of website performance to businesses as a means of solicitation and landed prospects.
-\item Implemented strategies to improve the company’s website ranking on Google by optimizing the website for user-friendliness and mobile-friendliness. Conducted extensive keyword research utilizing Ahref, Google Analytics, and Google Search Console to identify high-performing keywords and incorporated them into the website's content.
-\item Employed Lead Forensics to identify anonymous website visitors and converted them into potential clients, resulting in a significant increase in the company's sales pipeline.
+\item Successfully utilized \textbf{LinkedIn Sales Navigator} strategies and attended \textbf{industry meetups} to expand my professional network and engage with over \textbf{50 prospects} from diverse regions
+\item Reached out to \textbf{30 businesses} by mailing them \textbf{audit reports} of their \textbf{websites}, boosting the number of \textbf{leads}.
+\item Conducted extensive \textbf{keyword research} utilizing \textbf{Ahref}, \textbf{Google Analytics}, and \textbf{Google Search Console} to identify \textbf{high-performing keywords} and incorporated them into the website, greatly improving the website's \textbf{SERP}.
+\item Leveraged \textbf{Lead Forensics} to target the \textbf{98\%} of website visitors who didn't fill forms, resulting in better \textbf{conversion rates}.
 \end{itemize}
-\item \textbf{Terasology: Open source — Contributor}
+\item \textbf{Terasology: Open source — Contributor} \hfill\hfill(\textit{Jun'19- May'20})
+\\ \emph{Supervisor- Rasmus Praestholm, Co Founder, Terasology}
 \begin{itemize}
 \item An \textbf{open source sandbox game} similar to \textbf{Minecraft}, that runs primarily
 on \textbf{Java}.
-\item Contributed using \textbf{Github}, by collaborating with a \textbf{multi-national team} of
+\item Contributed using \textbf{Github}, by collaborating with a \textbf{multi-national team} of \textbf{300}
 core contributors to implement various types of gameplay settings in a
 voxel world
-\item \textbf{Enhanced the gameplay experience} by implementing health loss on
+\item \textbf{Enhanced gameplay experience} by implementing health loss on
 entering hazards, rewards on quest completion, time synchronization on all
-players in a multiplayer game, changes in physical capabilities according to
-change in height of character
+players in \textbf{multiplayer game}, changes in physical attributes according to
+change in character height.
 \end{itemize}
-\item \textbf{Self Project: Reputation System} \hfill\hfill(\textit{May'17- July'17})\\%\textbf{Mentor: }\textbf{Prof. Manindra Agrawal}, Department of Computer and Science Engineering.
+\item \textbf{Self Project: Reputation System} \hfill\hfill(\textit{March'23- Ongoing})\\%\textbf{Mentor: }\textbf{Prof. Manindra Agrawal}, Department of Computer and Science Engineering.
 \vspace{-4mm}
 \begin{itemize}
-\item Developed a reputation system for Web3 companies to identify fraudulent Ethereum transactions. Utilized Infura APIs to gather transaction data and applied the Isolation Forest algorithm to detect anomalies and flag potentially fraudulent transactions.  
- 
+\item Developed a reputation system for \textbf{Web3} companies to identify fraudulent \textbf{Ethereum} transactions. 
+\item Used \textbf{Infura APIs} to pull transaction data, applied \textbf{Isolation Forest algorithm} to flag potentially fraudulent transactions.   
 \end{itemize}
 \end{itemize}
-\vspace{-2mm}
+\vspace{-5mm}
 %\medskip
 %{\large \textbf{\begin{tcolorbox}\textsc{Other Projects}\end{tcolorbox}}}
 %\begin{itemize}
@@ -94,7 +97,7 @@ change in height of character
 \item \textbf{Programming Languages: }C, Solidity, Python, Java, Javascript,
 HTML 5, 
 CSS, 
-SQL, MATLAB, SQL
+SQL, MATLAB
 
 \item \textbf{Software: }Git, Android Studio, Unity, MongoDB, Ahrefs, Lead Forensics, Google Search Console, Google Analytics
 
@@ -106,10 +109,10 @@ SQL, MATLAB, SQL
 \begin{tabular}{|p{9.8cm}|p{9.8cm}|}
 \hline
 The Complete 2020 Web Development Bootcamp, Udemy & Fundamentals of Computing\\
-Fundamentals of Computing &  Linear algebra and Differential Equations\\
+Microeconomics &  Linear algebra, Complex Variables\\
 Modern Cryptology
 & Introduction to Economics  \\
-Machine Learning, Coursera, Stanford University  & The Complete Android N Developer Course, Udemy\\Algorithms Part 1 and 2, Coursera, Princeton University \\
+Machine Learning, Coursera, Stanford University  & The Complete Android N Developer Course, Udemy\\Algorithms Part 1 and 2, Coursera, Princeton University &  Ordinary \& Partial Differential Equations\\
 \hline
 \end{tabular}
 \end{center}
@@ -118,13 +121,14 @@ Machine Learning, Coursera, Stanford University  & The Complete Android N Develo
 %\end{itemize}
 {\large \textbf{\begin{tcolorbox}\textsc{Extra-Curricular Activities}\end{tcolorbox}}}
 \begin{itemize}
-\item First in Dance
-Drama, IIT Kanpur
-\item First runner up in
-group
-dance,
+\item \textbf{First place} in \textbf{Dance
+Drama} in Galaxy, the Intra-IITK Cultural Championship
+\item \textbf{First runner up} in
+\textbf{Group
+Dance},
 \textbf{Antaragni’19}, cultural fest of IIT Kanpur
 %\item volunteered in various events like Techkriti (workshops), Udghosh etc.
-\item First place in Robotics in \textbf{Takneek'18}, the intra-IITK Science and Technology Championship.
+\item \textbf{First place} in \textbf{Robotics} in \textbf{Takneek'18}, the intra-IITK Science and Technology Championship.
+\item Was part of a team of \textbf{20 trekkers}, that successfully completed the \textbf{Bali Pass trek}, located at an altitude of \textbf{5000 meters}.
 \end{itemize}
 \end{document}
