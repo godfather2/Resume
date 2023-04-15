@@ -68,8 +68,7 @@ Bangalore} & 80$\%$\\
 \item \textbf{Terasology: Open source — Contributor} \hfill\hfill(\textit{Jun'19- May'20})
 \\ \emph{Supervisor- Rasmus Praestholm, Co Founder, Terasology}
 \begin{itemize}
-\item An \textbf{open source sandbox game} similar to \textbf{Minecraft}, that runs primarily
-on \textbf{Java}.
+\item Worked as a \textbf{junior developer} on an \textbf{open-source} sandbox game similar to \textbf{Minecraft}, primarily developed in \textbf{Java}.
 \item Contributed using \textbf{Github}, by collaborating with a \textbf{multi-national team} of \textbf{300}
 core contributors to implement various types of gameplay settings in a
 voxel world
@@ -78,11 +77,12 @@ entering hazards, rewards on quest completion, time synchronization on all
 players in \textbf{multiplayer game}, changes in physical attributes according to
 change in character height.
 \end{itemize}
-\item \textbf{Self Project: Reputation System} \hfill\hfill(\textit{March'23- Ongoing})\\%\textbf{Mentor: }\textbf{Prof. Manindra Agrawal}, Department of Computer and Science Engineering.
+\item \textbf{Self Project: Fraud detection system} \hfill\hfill(\textit{March'23- Ongoing})\\%\textbf{Mentor: }\textbf{Prof. Manindra Agrawal}, Department of Computer and Science Engineering.
 \vspace{-4mm}
 \begin{itemize}
-\item Developed a reputation system for \textbf{Web3} companies to identify fraudulent \textbf{Ethereum} transactions. 
-\item Used \textbf{Infura APIs} to pull transaction data, applied \textbf{Isolation Forest algorithm} to flag potentially fraudulent transactions.   
+\item Coded up a program for \textbf{Web3} companies to identify potentially fraudulent \textbf{Ethereum} transactions. 
+\item Connected to an \textbf{Ethereum node} using \textbf{JavaScript} and \textbf{Infura APIs}, and extracted transaction data from the \textbf{blockchain}. 
+\item Utilized \textbf{Isolation forest algorithm} in \textbf{Python} to analyze and flag suspicious \textbf{Ethereum} transactions.   
 \end{itemize}
 \end{itemize}
 \vspace{-5mm}
