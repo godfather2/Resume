@@ -31,11 +31,11 @@ Bachelor of Technology, Dept. of Mechanical Engineering, IIT Kanpur  \hfill\text
 \vspace{-6pt}
 \\
 \noindent\rule[0.5ex]{\linewidth}{1pt}
-{\large \textbf{\begin{tcolorbox}\textsc{Academic Qualifications}\end{tcolorbox}}}
+{\large \textbf{\begin{tcolorbox}\textsc{Education}\end{tcolorbox}}}
 \begin{center}
 \begin{tabular}{|p{2.5cm}|p{6.0cm}|p{8.5cm}|p{1.8cm}|}
 \hline
-\centering{\textbf{Year}} & \centering{\textbf{Degree/Certificate}} & \centering{\textbf{Institute}} & \textbf{CPI/$\%$}\\
+\centering{\textbf{Year}} & \centering{\textbf{Degree/Certificate}} & \centering{\textbf{Institute}} & \textbf{CPI}/$\%$\\
 \hline
 \centering{2022}  & \centering{B.Tech, Mechanical Engineering} & \centering{Indian Institute of Technology, Kanpur} & 5.6/10\\
 \hline
@@ -55,15 +55,16 @@ Bangalore} & 80$\%$\\
 \item Successfully pitched Snowball, a fund raising platform for non profits, at a \textbf{startup bootcamp} organized by \textbf{Wadhwani Foundation}, hosted by \textbf{E cell IITK}, securing a spot amongst the top startups. 
 \item Conducted \textbf{market research} and created \textbf{pitch deck} that included \textbf{customer persona} and \textbf{competition analysis}.
 \item Interviewed \textbf{10} potential \textbf{users} and \textbf{15 decision makers} of \textbf{Non Profits} all over India to create an \textbf{MVP}.
-\item Made strategic \textbf{pivots} in light of \textbf{user feedback}, but ultimately decided to discontinue due to lack of traction.
+\item Made strategic \textbf{pivots} in light of \textbf{user feedback}
 \end{itemize}
 \item \textbf{CTO-Ninja: Freelance Business Associate}\hfill\hfill(\textit{Jan'23-Ongoing})
 \\ \emph{Supervisor- Shivam Kr. Shiv, Founder, CTO-Ninja}
 \begin{itemize}
-\item Successfully utilized \textbf{LinkedIn Sales Navigator} strategies and attended \textbf{industry meetups} to expand my professional network and engage with over \textbf{50 prospects} from diverse regions
+\item Successfully utilized \textbf{LinkedIn Sales Navigator} strategies to engage with over \textbf{50 prospects} globally.
 \item Reached out to \textbf{30 businesses} by mailing them \textbf{audit reports} of their \textbf{websites}, boosting the number of \textbf{leads}.
 \item Conducted extensive \textbf{keyword research} utilizing \textbf{Ahref}, \textbf{Google Analytics}, and \textbf{Google Search Console} to identify \textbf{high-performing keywords} and incorporated them into the website, greatly improving the website's \textbf{SERP}.
 \item Leveraged \textbf{Lead Forensics} to target the \textbf{98\%} of website visitors who didn't fill forms, resulting in better \textbf{conversion rates}.
+\item Attended \textbf{networking events} to expand my professional network and stay up-to-date with industry trends.
 \end{itemize}
 \item \textbf{Terasology: Open source — Contributor} \hfill\hfill(\textit{Jun'19- May'20})
 \\ \emph{Supervisor- Rasmus Praestholm, Co Founder, Terasology}
@@ -77,7 +78,11 @@ entering hazards, rewards on quest completion, time synchronization on all
 players in \textbf{multiplayer game}, changes in physical attributes according to
 change in character height.
 \end{itemize}
-\item \textbf{Self Project: Fraud detection system} \hfill\hfill(\textit{March'23- Ongoing})\\%\textbf{Mentor: }\textbf{Prof. Manindra Agrawal}, Department of Computer and Science Engineering.
+\end{itemize}
+\medskip
+{\large \textbf{\begin{tcolorbox}\textsc{Self Project}\end{tcolorbox}}}
+\begin{itemize}
+\item \textbf{Fraud detection system} \hfill\hfill(\textit{March'23- Ongoing})\\%\textbf{Mentor: }\textbf{Prof. Manindra Agrawal}, Department of Computer and Science Engineering.
 \vspace{-4mm}
 \begin{itemize}
 \item Coded up a program for \textbf{Web3} companies to identify potentially fraudulent \textbf{Ethereum} transactions. 
