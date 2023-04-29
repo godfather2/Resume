@@ -65,7 +65,7 @@
 \medskip
 {\large \textbf{\begin{tcolorbox}\textsc{Experience}\end{tcolorbox}}}
 \begin{itemize}
-\item \textbf{Snowball: Co-founded Start up at E-cell IIT Kanpur}
+\item \textbf{Co-founder|Snowball : Fund raising platform for Non Profits}
 \hfill\hfill(\textit{Nov'22- Jan'23})\\\emph{Co Founder- Ragha Abhinaya M, IIT Kanpur Y18; Supervisor- Shivani Varshney, Consultant, Wadhwani Foundation}
 \begin{itemize}
 \item Successfully pitched Snowball, a fund raising platform for non profits, at a \textbf{startup bootcamp} organized by \textbf{Wadhwani Foundation}, hosted by \textbf{E cell IITK}, securing a spot amongst the top startups. 
@@ -73,7 +73,7 @@
 \item Interviewed \textbf{10} potential \textbf{users} and \textbf{15 decision makers} of \textbf{Non Profits} all over India to create an \textbf{MVP}.
 \item Made strategic \textbf{pivots} in light of \textbf{user feedback}
 \end{itemize}
-\item \textbf{CTO-Ninja: Freelance Business Associate}\hfill\hfill(\textit{Jan'23-Ongoing})
+\item \textbf{Business Associate, Freelancer|CTO-Ninja : IT service provider}\hfill\hfill(\textit{Jan'23-Ongoing})
 \\ \emph{Supervisor- Shivam Kr. Shiv, Founder, CTO-Ninja}
 \begin{itemize}
 \item Successfully utilized \textbf{LinkedIn Sales Navigator} strategies to engage with over \textbf{50 prospects} globally.
@@ -81,16 +81,14 @@
 \item Reached out to \textbf{30 businesses} by mailing them \textbf{audit reports} of their \textbf{websites}, boosting the number of \textbf{leads}.
 \item Conducted extensive \textbf{keyword research} utilizing \textbf{Ahref}, \textbf{Google Analytics}, and \textbf{Google Search Console} to identify \textbf{high-performing keywords} and incorporated them into the website, greatly improving the website's \textbf{SERP}.
 \item Leveraged \textbf{Lead Forensics} to target the \textbf{98\%} of website visitors who didn't fill forms, resulting in better \textbf{conversion rates}.
-\item Attended \textbf{networking events} to expand my professional network and stay up-to-date with industry trends.
+\item Attended \textbf{20+ networking events} in \textbf{Bangalore} and \textbf{online} to expand my professional network and keep abreast with \textbf{industry trends}.
 \end{itemize}
-\item \textbf{Terasology: Open source — Contributor} \hfill\hfill(\textit{Jun'19- May'20})
+\item \textbf{Junior Developer, Contributor|Terasology : Open source sand box video game} \hfill\hfill(\textit{Jun'19- May'20})
 \\ \emph{Supervisor- Rasmus Praestholm, Co Founder, Terasology}
 \begin{itemize}
-\item Worked as a \textbf{junior developer} on an \textbf{open-source} sandbox game similar to \textbf{Minecraft}, primarily developed in \textbf{Java}.
-\item Contributed using \textbf{Github}, by \textbf{collaborating} with a \textbf{cross-functional team} of \textbf{300}
-core contributors to implement various types of gameplay settings in a
-voxel world.
-\item Created \textbf{product roadmap} for a new \textbf{gameplay template} using \textbf{prioritization techniques} to ensure timely project completion
+\item \textbf{Collaborated} on \textbf{Github} using \textbf{Java}, with a team of \textbf{300}
+core contributors to implement diverse gameplay settings in a voxel world.
+\item Created a detailed \textbf{product roadmap} for a new \textbf{gameplay template} using \textbf{prioritization techniques}, that was later incorporated into the game, resulting in a more immersive and enjoyable player journey.
 \item \textbf{Enhanced gameplay experience} by implementing health loss on
 entering hazards, rewards on quest completion, time synchronization on all
 players in \textbf{multiplayer game}, changes in physical attributes according to
@@ -99,13 +97,13 @@ change in character height.
 \end{itemize}
 \medskip
 {\large \textbf{\begin{tcolorbox}\textsc{Self Project}\end{tcolorbox}}}
-\begin{itemize}
+\begin{itemize}[label=]
 \item \textbf{Fraud detection system} \hfill\hfill(\textit{March'23- Ongoing})\\%\textbf{Mentor: }\textbf{Prof. Manindra Agrawal}, Department of Computer and Science Engineering.
 \vspace{-4mm}
 \begin{itemize}
-\item Coded up a program for \textbf{Web3} companies to identify potentially fraudulent \textbf{Ethereum} transactions. 
+\item Coded up a program for \textbf{Web3} companies using \textbf{ChatGPT} to identify potentially fraudulent \textbf{Ethereum} transactions. 
 \item Connected to an \textbf{Ethereum node} using \textbf{JavaScript} and \textbf{Infura APIs}, and extracted transaction data from the \textbf{blockchain}. 
-\item Utilized \textbf{Isolation forest algorithm} in \textbf{Python} to analyze and flag suspicious \textbf{Ethereum} transactions.   
+\item Utilized \textbf{Isolation forest algorithm} in \textbf{Python} to analyze and flag suspicious \textbf{Ethereum} transactions, achieving a \textbf{0.7} F1 score.   
 \end{itemize}
 \end{itemize}
 \vspace{-5mm}
@@ -117,25 +115,25 @@ change in character height.
 {\large \textbf{\begin{tcolorbox}\textsc{Technical Skills}\end{tcolorbox}}}
 \begin{itemize}
 \itemsep0em
-\item \textbf{Programming Languages: }C, Solidity, Python, Java, Javascript,
+\item \textbf{Programming Languages: }Solidity, Python, Java, Javascript,
 HTML 5, 
 CSS, 
 SQL, MATLAB
 
-\item \textbf{Software: }Git, Android Studio, Unity, MongoDB, Ahrefs, Lead Forensics, Google Search Console, Google Analytics, 
+\item \textbf{Software: }Git, Android Studio, MongoDB, Ahrefs, Lead Forensics, Google Search Console, Google Analytics, MS PowerPoint, MS Excel 
 
-\item \textbf{Libraries and Frameworks: }React.js, Bootstrap, JQuery, Beautiful Soup 
+\item \textbf{Libraries and Frameworks: }React.js, Bootstrap, JQuery 
 \end{itemize}
 \medskip
 {\large \textbf{\begin{tcolorbox}\textsc{Relevant Courses}\end{tcolorbox}}}
 \begin{center}
 \begin{tabular}{|p{9.8cm}|p{9.8cm}|}
 \hline
-The Complete 2020 Web Development Bootcamp, Udemy & Fundamentals of Computing\\
-Microeconomics &  Linear algebra, Complex Variables\\
+Management Decision Analysis & Fundamentals of Computing\\
+Become a Product Manager, Udemy &  Linear algebra, Complex Variables\\
 Modern Cryptology
 & Introduction to Economics  \\
-Machine Learning, Coursera, Stanford University  & The Complete Android N Developer Course, Udemy\\Algorithms Part 1 and 2, Coursera, Princeton University &  Ordinary \& Partial Differential Equations\\
+Machine Learning, Coursera, Stanford University  & The Complete Android N Developer Course, Udemy\\Algorithms Part 1 and 2, Coursera, Princeton University &  The Complete 2020 Web Development Bootcamp, Udemy\\
 \hline
 \end{tabular}
 \end{center}
@@ -144,14 +142,14 @@ Machine Learning, Coursera, Stanford University  & The Complete Android N Develo
 %\end{itemize}
 {\large \textbf{\begin{tcolorbox}\textsc{Extra-Curricular Activities}\end{tcolorbox}}}
 \begin{itemize}
-\item \textbf{First place} in \textbf{Dance
-Drama} in Galaxy, the Intra-IITK Cultural Championship
+\item \textbf{Led} a troupe of \textbf{25} dancers to the \textbf{1st place} in \textbf{Dance
+Drama} in Galaxy, the \textbf{Intra-IITK Cultural Championship}.
 \item \textbf{First runner up} in
 \textbf{Group
 Dance},
 \textbf{Antaragni’19}, cultural fest of IIT Kanpur
 %\item volunteered in various events like Techkriti (workshops), Udghosh etc.
-\item \textbf{First place} in \textbf{Robotics} in \textbf{Takneek'18}, the intra-IITK Science and Technology Championship.
+\item \textbf{Collaborated} in a team of \textbf{4} that secured \textbf{1st place} in \textbf{Robotics} at Takneek’18, the \textbf{Intra-IITK Science and Technology Championship}.
 \item Was part of a team of \textbf{20 trekkers}, that successfully completed the \textbf{Bali Pass trek}, located at an altitude of \textbf{5000 meters}.
 \end{itemize}
 \end{document}
