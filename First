@@ -65,20 +65,22 @@
 \medskip
 {\large \textbf{\begin{tcolorbox}\textsc{Experience}\end{tcolorbox}}}
 \begin{itemize}
-\item \textbf{Co-founder|Snowball : Fund raising platform for Non Profits}
-\hfill\hfill(\textit{Nov'22- Jan'23})\\\emph{Co Founder- Ragha Abhinaya M, IIT Kanpur Y18; Supervisor- Shivani Varshney, Consultant, Wadhwani Foundation}
+\vspace{-0.3mm}
+\item \textbf{Co-founder|Snowball : Fundraising platform for Non-Profits}
+\hfill\hfill(\textit{Nov'22- Jan'23})\\\emph{Co Founder - Ragha Abhinaya M, IIT Kanpur Y18; Supervisor- Shivani Varshney, Consultant, Wadhwani Foundation}
 \begin{itemize}
-\item Successfully pitched Snowball, a fund raising platform for non profits, at a \textbf{startup bootcamp} organized by \textbf{Wadhwani Foundation}, hosted by \textbf{E cell IITK}, securing a spot amongst the top startups. 
-\item Conducted \textbf{market research} and created \textbf{pitch deck} that included \textbf{customer persona} and \textbf{competition analysis}.
-\item Interviewed \textbf{10} potential \textbf{users} and \textbf{15 decision makers} of \textbf{Non Profits} all over India to create an \textbf{MVP}.
-\item Made strategic \textbf{pivots} in light of \textbf{user feedback}
+\item Successfully pitched Snowball - an online gamified platform to direct players' gaming fees to Non-Profits at \textbf{Wadhwani Foundation's Startup Bootcamp} hosted by \textbf{E-Cell, IITK}.
+\item Secured a spot among the top \textbf{15 startups} selected from a \textbf{global pool} of applicants, closely \textbf{mentored} by \textbf{industry experts}. 
+\item Received a rating of \textbf{9.6/10} on a pitch deck prepared by conducting \textbf{market research} and \textbf{customer persona and competition analysis}.
+\item Interviewed \textbf{20} potential \textbf{customers} and \textbf{15 decision makers} of \textbf{Non Profits} all over India to create a \textbf{MVP} in the form of a gameplay.
+% \item Made strategic \textbf{pivots} in light of \textbf{user feedback}
 \end{itemize}
 \item \textbf{Business Associate, Freelancer|CTO-Ninja : IT service provider}\hfill\hfill(\textit{Jan'23-Ongoing})
 \\ \emph{Supervisor- Shivam Kr. Shiv, Founder, CTO-Ninja}
 \begin{itemize}
 \item Successfully utilized \textbf{LinkedIn Sales Navigator} strategies to engage with over \textbf{50 prospects} globally.
-\item Used \textbf{A/B testing} to derive \textbf{data-driven} decisions, ultimately identifying and optimizing effective \textbf{sales} strategies.
-\item Reached out to \textbf{30 businesses} by mailing them \textbf{audit reports} of their \textbf{websites}, boosting the number of \textbf{leads}.
+\item Conducted \textbf{A/B testing} on over \textbf{15 sales strategies}, leveraging \textbf{data-driven} insights to identify and optimize effective \textbf{sales techniques}.
+\item Reached out to \textbf{40+ businesses} by mailing them \textbf{audit reports} of their \textbf{websites}, boosting the number of \textbf{leads}.
 \item Conducted extensive \textbf{keyword research} utilizing \textbf{Ahref}, \textbf{Google Analytics}, and \textbf{Google Search Console} to identify \textbf{high-performing keywords} and incorporated them into the website, greatly improving the website's \textbf{SERP}.
 \item Leveraged \textbf{Lead Forensics} to target the \textbf{98\%} of website visitors who didn't fill forms, resulting in better \textbf{conversion rates}.
 \item Attended \textbf{20+ networking events} in \textbf{Bangalore} and \textbf{online} to expand my professional network and keep abreast with \textbf{industry trends}.
@@ -96,7 +98,9 @@ change in character height.
 \end{itemize}
 \end{itemize}
 \medskip
+
 {\large \textbf{\begin{tcolorbox}\textsc{Self Project}\end{tcolorbox}}}
+
 \begin{itemize}[label=]
 \item \textbf{Fraud detection system} \hfill\hfill(\textit{March'23- Ongoing})\\%\textbf{Mentor: }\textbf{Prof. Manindra Agrawal}, Department of Computer and Science Engineering.
 \vspace{-4mm}
@@ -112,17 +116,13 @@ change in character height.
 %\begin{itemize}
 
 %\end{itemize}
-{\large \textbf{\begin{tcolorbox}\textsc{Technical Skills}\end{tcolorbox}}}
+{\large \textbf{\begin{tcolorbox}\textsc{Skills}\end{tcolorbox}}}
 \begin{itemize}
 \itemsep0em
-\item \textbf{Programming Languages: }Solidity, Python, Java, Javascript,
-HTML 5, 
-CSS, 
-SQL, MATLAB
+\item \textbf{Product management: }A/B Testing, Product roadmapping, Market research, Prioritization, Competitive benchmarking
 
-\item \textbf{Software: }Git, Android Studio, MongoDB, Ahrefs, Lead Forensics, Google Search Console, Google Analytics, MS PowerPoint, MS Excel 
-
-\item \textbf{Libraries and Frameworks: }React.js, Bootstrap, JQuery 
+\item \textbf{Technical skills: }APIs, SQL, Python scripting, Java, Javascript, Solidity
+\item \textbf{Tools: }Google Analytics, GitHub, MS Excel, MS Powerpoint
 \end{itemize}
 \medskip
 {\large \textbf{\begin{tcolorbox}\textsc{Relevant Courses}\end{tcolorbox}}}
@@ -140,9 +140,10 @@ Machine Learning, Coursera, Stanford University  & The Complete Android N Develo
 %\medskip
 %\newpage
 %\end{itemize}
+\vspace{.5mm}
 {\large \textbf{\begin{tcolorbox}\textsc{Extra-Curricular Activities}\end{tcolorbox}}}
 \begin{itemize}
-\item \textbf{Led} a troupe of \textbf{25} dancers to the \textbf{1st place} in \textbf{Dance
+\item \textbf{Led} a troupe of \textbf{25 dancers} to the \textbf{1st place} in \textbf{Dance
 Drama} in Galaxy, the \textbf{Intra-IITK Cultural Championship}.
 \item \textbf{First runner up} in
 \textbf{Group
