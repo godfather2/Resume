@@ -34,6 +34,7 @@
     arc=0pt,outer arc=0pt,
     }
 \begin{document}
+
 \begin{center}
 \noindent {\huge\textbf{Hitesh Holkar}}
 \end{center}
@@ -62,29 +63,34 @@
 \hline
 \end{tabular}
 \end{center}
+\vspace{-1mm}
 \medskip
 {\large \textbf{\begin{tcolorbox}\textsc{Experience}\end{tcolorbox}}}
 \begin{itemize}
-\vspace{-0.3mm}
+\vspace{-2 mm}
 \item \textbf{Co-founder|Snowball : Fundraising platform for Non-Profits}
 \hfill\hfill(\textit{Nov'22- Jan'23})\\\emph{Co Founder - Ragha Abhinaya M, IIT Kanpur Y18; Supervisor- Shivani Varshney, Consultant, Wadhwani Foundation}
 \begin{itemize}
-\item Successfully pitched Snowball - an online gamified platform to direct players' gaming fees to Non-Profits at \textbf{Wadhwani Foundation's Startup Bootcamp} hosted by \textbf{E-Cell, IITK}.
-\item Secured a spot among the top \textbf{15 startups} selected from a \textbf{global pool} of applicants, closely \textbf{mentored} by \textbf{industry experts}. 
-\item Received a rating of \textbf{9.6/10} on a pitch deck prepared by conducting \textbf{market research} and \textbf{customer persona and competition analysis}.
-\item Interviewed \textbf{20} potential \textbf{customers} and \textbf{15 decision makers} of \textbf{Non Profits} all over India to create a \textbf{MVP} in the form of a gameplay.
+% \item Co-founded Snowball, an online gamified platform that directs a fraction of  players’ gaming fees to Non-Profits.
+\item Co-founded Snowball, an \textbf{online gamified platform} that generates revenue from \textbf{gaming fees} after directing a fraction to \textbf{Non-Profits}.
+\item Pitched at \textbf{Wadhwani Foundation’s Startup Bootcamp} hosted by \textbf{E-Cell, IITK}, securing a spot among the top 15 startups globally. 
+\item Conducted \textbf{market research} to develop \textbf{customer persona} and \textbf{competition analysis}, compiled in \href{https://1drv.ms/p/s!AiHmf2iHXTaGgVswrQHk8UHuhkSy?e=Rr7HwK}{pitch deck} that scored \textbf{9.6/10} rating.
+\item Interviewed \textbf{20} potential \textbf{customers} and \textbf{15 decision makers} of \textbf{Non Profits} all over India to gather \textbf{feedback}, used to create an \textbf{MVP}.
 % \item Made strategic \textbf{pivots} in light of \textbf{user feedback}
 \end{itemize}
+\vspace{1mm}
 \item \textbf{Business Associate, Freelancer|CTO-Ninja : IT service provider}\hfill\hfill(\textit{Jan'23-Ongoing})
 \\ \emph{Supervisor- Shivam Kr. Shiv, Founder, CTO-Ninja}
 \begin{itemize}
-\item Successfully utilized \textbf{LinkedIn Sales Navigator} strategies to engage with over \textbf{50 prospects} globally.
+\item Successfully utilized \textbf{LinkedIn Sales Navigator} strategies to engage with over \textbf{50 prospects} from the US, UK, Canada and India.
 \item Conducted \textbf{A/B testing} on over \textbf{15 sales strategies}, leveraging \textbf{data-driven} insights to identify and optimize effective \textbf{sales techniques}.
-\item Reached out to \textbf{40+ businesses} by mailing them \textbf{audit reports} of their \textbf{websites}, boosting the number of \textbf{leads}.
-\item Conducted extensive \textbf{keyword research} utilizing \textbf{Ahref}, \textbf{Google Analytics}, and \textbf{Google Search Console} to identify \textbf{high-performing keywords} and incorporated them into the website, greatly improving the website's \textbf{SERP}.
+\item Prepared \textbf{audit reports} of the websites of \textbf{40+ businesses} and reached out them, boosting the number of \textbf{leads}.
+\item Identified \textbf{high performing keywords} using \textbf{Ahref}, \textbf{Google Analytics}, \textbf{Google Search Console}, improving the website \textbf{SERP} ranking.
+% \item Incorporated them into the website, greatly improving the website's \textbf{Search Engine Result Page} ranking.
 \item Leveraged \textbf{Lead Forensics} to target the \textbf{98\%} of website visitors who didn't fill forms, resulting in better \textbf{conversion rates}.
 \item Attended \textbf{20+ networking events} in \textbf{Bangalore} and \textbf{online} to expand my professional network and keep abreast with \textbf{industry trends}.
 \end{itemize}
+\vspace{1mm}
 \item \textbf{Junior Developer, Contributor|Terasology : Open source sand box video game} \hfill\hfill(\textit{Jun'19- May'20})
 \\ \emph{Supervisor- Rasmus Praestholm, Co Founder, Terasology}
 \begin{itemize}
@@ -98,14 +104,13 @@ change in character height.
 \end{itemize}
 \end{itemize}
 \medskip
-
 {\large \textbf{\begin{tcolorbox}\textsc{Self Project}\end{tcolorbox}}}
-
+\vspace{-2mm}
 \begin{itemize}[label=]
-\item \textbf{Fraud detection system} \hfill\hfill(\textit{March'23- Ongoing})\\%\textbf{Mentor: }\textbf{Prof. Manindra Agrawal}, Department of Computer and Science Engineering.
+\item \textbf{Fraud detection system for Ethereum transactions} \hfill\hfill(\textit{March'23- Ongoing})\\%\textbf{Mentor: }\textbf{Prof. Manindra Agrawal}, Department of Computer and Science Engineering.
 \vspace{-4mm}
 \begin{itemize}
-\item Coded up a program for \textbf{Web3} companies using \textbf{ChatGPT} to identify potentially fraudulent \textbf{Ethereum} transactions. 
+\item Coded up a program for \textbf{Web3} companies using \textbf{ChatGPT} to identify potentially fraudulent Ethereum transactions. 
 \item Connected to an \textbf{Ethereum node} using \textbf{JavaScript} and \textbf{Infura APIs}, and extracted transaction data from the \textbf{blockchain}. 
 \item Utilized \textbf{Isolation forest algorithm} in \textbf{Python} to analyze and flag suspicious \textbf{Ethereum} transactions, achieving a \textbf{0.7} F1 score.   
 \end{itemize}
@@ -117,6 +122,7 @@ change in character height.
 
 %\end{itemize}
 {\large \textbf{\begin{tcolorbox}\textsc{Skills}\end{tcolorbox}}}
+\vspace{-2mm}
 \begin{itemize}
 \itemsep0em
 \item \textbf{Product management: }A/B Testing, Product roadmapping, Market research, Prioritization, Competitive benchmarking
@@ -124,6 +130,7 @@ change in character height.
 \item \textbf{Technical skills: }APIs, SQL, Python scripting, Java, Javascript, Solidity
 \item \textbf{Tools: }Google Analytics, GitHub, MS Excel, MS Powerpoint
 \end{itemize}
+\vspace{.5mm}
 \medskip
 {\large \textbf{\begin{tcolorbox}\textsc{Relevant Courses}\end{tcolorbox}}}
 \begin{center}
@@ -140,7 +147,7 @@ Machine Learning, Coursera, Stanford University  & The Complete Android N Develo
 %\medskip
 %\newpage
 %\end{itemize}
-\vspace{.5mm}
+\vspace{1mm}
 {\large \textbf{\begin{tcolorbox}\textsc{Extra-Curricular Activities}\end{tcolorbox}}}
 \begin{itemize}
 \item \textbf{Led} a troupe of \textbf{25 dancers} to the \textbf{1st place} in \textbf{Dance
