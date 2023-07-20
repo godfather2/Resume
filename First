@@ -107,12 +107,12 @@ change in character height.
 {\large \textbf{\begin{tcolorbox}\textsc{Self Project}\end{tcolorbox}}}
 \vspace{-2mm}
 \begin{itemize}[label=]
-\item \textbf{Fraud detection system for Ethereum transactions} \hfill\hfill(\textit{March'23- Ongoing})\\%\textbf{Mentor: }\textbf{Prof. Manindra Agrawal}, Department of Computer and Science Engineering.
+\item \textbf{Consumer Finance Safety app} \hfill\hfill(\textit{March'23- Ongoing})\\%\textbf{Mentor: }\textbf{Prof. Manindra Agrawal}, Department of Computer and Science Engineering.
 \vspace{-4mm}
 \begin{itemize}
-\item Coded up a program for \textbf{Web3} companies using \textbf{ChatGPT} to identify potentially fraudulent Ethereum transactions. 
-\item Connected to an \textbf{Ethereum node} using \textbf{JavaScript} and \textbf{Infura APIs}, and extracted transaction data from the \textbf{blockchain}. 
-\item Utilized \textbf{Isolation forest algorithm} in \textbf{Python} to analyze and flag suspicious \textbf{Ethereum} transactions, achieving a \textbf{0.7} F1 score.   
+\item Used \textbf{NLP} on \textbf{CFPB database} to \textbf{analyze} consumer finance complaints, spotting prevalent \textbf{predatory bank lending} \& \textbf{crypto scams}. 
+\item Leveraged \textbf{Excel} for \textbf{keyword analysis} of \textbf{bank complaints}, spotting \textbf{predatory banks} to assess \textbf{consumer loan safety}. 
+\item Developed \textbf{Python} program with \textbf{ChatGPT}, using \textbf{Isolation Forest algorithm} for \textbf{analyzing Ethereum transactions} extracted from \textbf{blockchain}, achieving \textbf{83\% accuracy} in flagging \textbf{suspicious} activities.   
 \end{itemize}
 \end{itemize}
 \vspace{-5mm}
