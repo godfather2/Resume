@@ -110,8 +110,8 @@ change in character height.
 \item \textbf{Consumer Finance Safety app} \hfill\hfill(\textit{March'23- Ongoing})\\%\textbf{Mentor: }\textbf{Prof. Manindra Agrawal}, Department of Computer and Science Engineering.
 \vspace{-4mm}
 \begin{itemize}
-\item Used \textbf{NLP} on \textbf{CFPB database} to \textbf{analyze} consumer finance complaints, spotting prevalent \textbf{predatory bank lending} \& \textbf{crypto scams}. 
-\item Leveraged \textbf{Excel} for \textbf{keyword analysis} of \textbf{bank complaints}, spotting \textbf{predatory banks} to assess \textbf{consumer loan safety}. 
+\item Used \textbf{NLP} on \textbf{CFPB database} to \textbf{analyze} consumer finance complaints, spotting prevalent \href{https://1drv.ms/p/s!AqXH8a1yEzAIkGzFmNMh3YhCkpQ_?e=o1WUjg}{\textbf{predatory bank lending}} \& \textbf{crypto scams}. 
+\item Leveraged \textbf{Excel} for \textbf{keyword analysis} of \textbf{bank complaints}, identifying \textbf{predatory banks} to assess \textbf{consumer loan safety}. 
 \item Developed \textbf{Python} program with \textbf{ChatGPT}, using \textbf{Isolation Forest algorithm} for \textbf{analyzing Ethereum transactions} extracted from \textbf{blockchain}, achieving \textbf{83\% accuracy} in flagging \textbf{suspicious} activities.   
 \end{itemize}
 \end{itemize}
