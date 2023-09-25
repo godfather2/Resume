@@ -46,10 +46,12 @@
     \faGithub \hspace{0.2mm} \href{https://github.com/godfather2}{GitHub} |
     \faMapPin \hspace{0.2mm} Basaveshwar Nagar, Bengaluru, Karnataka}
 \end{center}
-\vspace{-6pt}
+\vspace{-10pt}
 
 \noindent\rule[0.5ex]{\linewidth}{1pt}
+\vspace{-25pt}
 {\large \textbf{\begin{tcolorbox}\textsc{Education}\end{tcolorbox}}}
+\vspace{-2mm}
 \begin{center}
 \begin{tabular}{|p{9cm}|p{6.5cm}|p{3.5cm}|}
 \hline
@@ -67,7 +69,16 @@
 \medskip
 {\large \textbf{\begin{tcolorbox}\textsc{Experience}\end{tcolorbox}}}
 \begin{itemize}
-\vspace{-2 mm}
+\vspace{-3 mm}
+\item \textbf{Product Intern | Needl.ai : B2B SaaS Startup} \hfill\hfill(\textit{Aug'23- Present})
+\\ \emph{Supervisor- Upasna Lamba, Product Lead, Needl.ai}
+\begin{itemize}
+\item Tailored \textbf{B2B SaaS product analytics metrics} for Needl's \textbf{adoption}, \textbf{activation} and \textbf{retention}, with \textbf{segmented user} tracking.
+\item Developed \textbf{metrics} for \textbf{enterprise cohort} interactions with \textbf{collaborative features} and incorporated them into \textbf{Mixpanel}.
+\item Enhanced \textbf{user experience} by revamping the \textbf{Support Page} to ensure \textbf{accurate} and \textbf{up-to-date} information about the application.
+\item Created \textbf{wireframe} on \textbf{Whimsical} to redesign Needl's \textbf{feed creation UI} into an \textbf{intuitive} and \textbf{streamlined} single-page layout.
+\end{itemize}
+\vspace{.3mm}
 \item \textbf{Co-founder|Snowball : Fundraising platform for Non-Profits}
 \hfill\hfill(\textit{Nov'22- May'23})\\\emph{Co Founder - Ragha Abhinaya M, IIT Kanpur Y18; Supervisor- Shivani Varshney, Consultant, Wadhwani Foundation}
 \begin{itemize}
@@ -76,9 +87,10 @@
 \item Pitched at \textbf{Wadhwani Foundation’s Startup Bootcamp} hosted by \textbf{E-Cell, IITK}, securing a spot among the top 15 startups globally. 
 \item Conducted \textbf{market research} to develop \textbf{customer persona} and \textbf{competition analysis}, compiled in \href{https://1drv.ms/p/s!AqXH8a1yEzAIkFoAzKLBXCUPEshm?e=nW2OqH}{pitch deck} that scored \textbf{9.2/10} rating.
 \item Interviewed \textbf{20} potential \textbf{customers} and \textbf{15 decision makers} of \textbf{Non Profits} all over India to gather \textbf{feedback}, used to create an \textbf{MVP}.
+\item Crafted the \textbf{MVP} using \textbf{Mapbox} SDK in \textbf{Unity} game engine, creating an \textbf{exploratory, real-world location-based game}, which dynamically displayed \textbf{geographical changes}, letting users visually \textbf{track} environmental non-profits' \textbf{tree-planting} efforts.
 % \item Made strategic \textbf{pivots} in light of \textbf{user feedback}
 \end{itemize}
-\vspace{1mm}
+\vspace{.3mm}
 \item \textbf{Business Associate, Freelancer|CTO-Ninja : IT service provider}\hfill\hfill(\textit{Jan'23-Apr'23})
 \\ \emph{Supervisor- Shivam Kr. Shiv, Founder, CTO-Ninja}
 \begin{itemize}
@@ -88,7 +100,6 @@
 \item Identified \textbf{high performing keywords} using \textbf{Ahref}, \textbf{Google Analytics}, \textbf{Google Search Console}, improving the website \textbf{SERP} ranking.
 % \item Incorporated them into the website, greatly improving the website's \textbf{Search Engine Result Page} ranking.
 \item Leveraged \textbf{Lead Forensics} to target the \textbf{98\%} of website visitors who didn't fill forms, resulting in better \textbf{conversion rates}.
-\item Attended \textbf{20+ networking events} in \textbf{Bangalore} and \textbf{online} to expand my professional network and keep abreast with \textbf{industry trends}.
 \end{itemize}
 \vspace{1mm}
 \item \textbf{Junior Developer, Intern|Terasology : Open source sand box video game} \hfill\hfill(\textit{Jun'19- May'20})
@@ -102,27 +113,29 @@ entering hazards, rewards on quest completion, time synchronization on all
 players in \textbf{multiplayer game}, changes in physical attributes according to
 change in character height.
 \end{itemize}
+% \vspace{1mm}
+
 \end{itemize}
 \medskip
 {\large \textbf{\begin{tcolorbox}\textsc{Self Project}\end{tcolorbox}}}
-\vspace{-2mm}
+\vspace{-3mm}
 \begin{itemize}[label=]
 \item \textbf{Consumer Finance Safety app} \hfill\hfill(\textit{March'23- Ongoing})\\%\textbf{Mentor: }\textbf{Prof. Manindra Agrawal}, Department of Computer and Science Engineering.
 \vspace{-4mm}
 \begin{itemize}
 \item Used \textbf{NLP} on \textbf{CFPB database} to \textbf{analyze} consumer finance complaints, spotting prevalent \href{https://1drv.ms/p/s!AqXH8a1yEzAIkGzFmNMh3YhCkpQ_?e=o1WUjg}{\textbf{predatory bank lending}} \& \textbf{crypto scams}. 
 \item Leveraged \textbf{Excel} for \textbf{keyword analysis} of \textbf{bank complaints}, identifying \textbf{predatory banks} to assess \textbf{consumer loan safety}. 
-\item Developed \textbf{Python} program with \textbf{ChatGPT}, using \textbf{Isolation Forest algorithm} for \textbf{analyzing Ethereum transactions} extracted from \textbf{blockchain}, achieving \textbf{83\% accuracy} in flagging \textbf{suspicious} activities.   
+\item Developed \textbf{Python} program with \textbf{ChatGPT}, using \textbf{Isolation Forest algorithm} for \textbf{analyzing Ethereum transactions} extracted from \textbf{blockchain}, achieving \textbf{83\% accuracy} in flagging \textbf{suspicious} activities.   
 \end{itemize}
 \end{itemize}
-\vspace{-5mm}
+\vspace{-7mm}
 %\medskip
 %{\large \textbf{\begin{tcolorbox}\textsc{Other Projects}\end{tcolorbox}}}
 %\begin{itemize}
 
 %\end{itemize}
 {\large \textbf{\begin{tcolorbox}\textsc{Skills}\end{tcolorbox}}}
-\vspace{-2mm}
+\vspace{-2.5mm}
 \begin{itemize}
 \itemsep0em
 \item \textbf{Product management: }A/B Testing, Product roadmapping, Market research, Prioritization, Competitive benchmarking
@@ -133,6 +146,7 @@ change in character height.
 \vspace{.5mm}
 \medskip
 {\large \textbf{\begin{tcolorbox}\textsc{Relevant Courses}\end{tcolorbox}}}
+\vspace{-1.5mm}
 \begin{center}
 \begin{tabular}{|p{9.8cm}|p{9.8cm}|}
 \hline
@@ -149,6 +163,7 @@ Machine Learning, Coursera, Stanford University  & The Complete Android N Develo
 %\end{itemize}
 \vspace{1mm}
 {\large \textbf{\begin{tcolorbox}\textsc{Extra-Curricular Activities}\end{tcolorbox}}}
+\vspace{-3mm}
 \begin{itemize}
 \item \textbf{Led} a troupe of \textbf{25 dancers} to the \textbf{1st place} in \textbf{Dance
 Drama} in Galaxy, the \textbf{Intra-IITK Cultural Championship}.
