@@ -1,0 +1,174 @@
+\documentclass[11.6pt]{extarticle}
+%\documentclass[]{file}
+\usepackage[margin=0.2in]{geometry}
+\usepackage{romannum}
+\usepackage[most]{tcolorbox}
+\usepackage{enumitem}
+\usepackage{multicol}
+
+\usepackage{fontawesome}
+% \newcommand*\faMobile{{\FA\symbol{"F10B}}}
+\usepackage{mathptmx}
+\usepackage[misc]{ifsym}
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks=true,
+    urlcolor=blue,
+}
+\usepackage{mathptmx}
+
+\setlist[itemize]{noitemsep, topsep=0pt}
+\addtolength{\parskip}{-1.5mm}
+\tcbset{
+    frame code={}
+    center title,
+    left=0pt,
+    right=0pt,
+    top=0pt,
+    bottom=0pt,
+    colback=gray!50,
+    colframe=white,
+    width=\dimexpr\textwidth\relax,
+    enlarge left by=0mm,
+    boxsep=3pt,
+    arc=0pt,outer arc=0pt,
+    }
+\begin{document}
+
+\begin{center}
+\noindent {\huge\textbf{Hitesh Holkar}}
+\end{center}
+\begin{center}
+\noindent {Bachelor of Technology, Dept. of Mechanical Engineering, IIT Kanpur}
+\end{center}
+\begin{center}
+    \noindent {\faMobile \hspace{1mm}(+91) 9380075530 |\Letter \hspace{0.3mm} \href{mailto:hiteshholkar007@gmail.com}{hiteshholkar007@gmail.com} | \faLinkedin \hspace{0.2mm}  \href{https://www.linkedin.com/in/hitesh-holkar-616288185/}{Hitesh Holkar} |
+    \faGithub \hspace{0.2mm} \href{https://github.com/godfather2}{GitHub} |
+    \faMapPin \hspace{0.2mm}  Bengaluru, Karnataka, India}
+\end{center}
+\vspace{-8pt}
+
+\noindent\rule[0.5ex]{\linewidth}{1pt}
+\vspace{-30pt}
+
+{\large \textbf{\begin{tcolorbox}\textsc{Experience}\end{tcolorbox}}}
+\begin{itemize}
+\vspace{-3 mm}
+\item \textbf{Product Intern | Needl.ai : B2B SaaS Startup} \hfill\hfill(\textit{Aug'23- Present})
+\\ \emph{Supervisor- Upasna Lamba, Product Lead, Needl.ai}
+\begin{itemize}
+\item Tailored \textbf{B2B SaaS product analytics metrics} for Needl's \textbf{adoption}, \textbf{activation} and \textbf{retention}, with \textbf{segmented user} tracking.
+\item Developed \textbf{metrics} for \textbf{enterprise cohort} interactions with \textbf{collaborative features} and incorporated them into \textbf{Mixpanel}.
+\item Enhanced \textbf{user experience} by revamping the \textbf{Support Page} to ensure \textbf{accurate} and \textbf{up-to-date} information about the application.
+\item Created \textbf{wireframe} on \textbf{Whimsical} to redesign Needl's \textbf{feed creation UI} into an \textbf{intuitive} and \textbf{streamlined} single-page layout.
+\item Composed PRD  to expand and diversify the range of information feed templates and bundles provided by Needl.
+\item Benchmarked search feature against search functionalities of Needl's  integrations,  identifying areas for improvements in Needl search.
+\end{itemize}
+\vspace{.3mm}
+\item \textbf{Co-founder|Snowball : Fundraising platform for Non-Profits}
+\hfill\hfill(\textit{Nov'22- May'23})\\\emph{Co Founder - Ragha Abhinaya M, IIT Kanpur Y18; Supervisor- Shivani Varshney, Consultant, Wadhwani Foundation}
+\begin{itemize}
+% \item Co-founded Snowball, an online gamified platform that directs a fraction of  players’ gaming fees to Non-Profits.
+\item Co-founded Snowball, an \textbf{online gamified platform} that generates revenue from \textbf{gaming fees} after directing a fraction to \textbf{Non-Profits}.
+\item Pitched at \textbf{Wadhwani Foundation’s Startup Bootcamp} hosted by \textbf{E-Cell, IITK}, securing a spot among the top 15 startups globally. 
+\item Conducted \textbf{market research} to develop \textbf{customer persona} and \textbf{competition analysis}, compiled in \href{https://1drv.ms/p/s!AqXH8a1yEzAIkFoAzKLBXCUPEshm?e=nW2OqH}{pitch deck} that scored \textbf{9.2/10} rating.
+\item Interviewed \textbf{20} potential \textbf{customers} and \textbf{15 decision makers} of \textbf{Non Profits} all over India to gather \textbf{feedback}, used to create an \textbf{MVP}.
+\item Crafted the \textbf{MVP} using \textbf{Mapbox} SDK in \textbf{Unity} game engine, creating an \textbf{exploratory, real-world location-based game}, which dynamically displayed \textbf{geographical changes}, letting users visually \textbf{track} environmental non-profits' \textbf{tree-planting} efforts.
+% \item Made strategic \textbf{pivots} in light of \textbf{user feedback}
+\end{itemize}
+\vspace{.3mm}
+\item \textbf{Business Associate, Freelancer|CTO-Ninja : IT service provider}\hfill\hfill(\textit{Jan'23-Apr'23})
+\\ \emph{Supervisor- Shivam Kr. Shiv, Founder, CTO-Ninja}
+\begin{itemize}
+\item Successfully utilized \textbf{LinkedIn Sales Navigator} strategies to engage with over \textbf{50 prospects} from the US, UK, Canada and India.
+\item Conducted \textbf{A/B testing} on over \textbf{15 sales strategies}, leveraging \textbf{data-driven} insights to identify and optimize effective \textbf{sales techniques}.
+\item Prepared \textbf{audit reports} of the websites of \textbf{40+ businesses} and reached out them, boosting the number of \textbf{leads}.
+\item Identified \textbf{high performing keywords} using \textbf{Ahref}, \textbf{Google Analytics}, \textbf{Google Search Console}, improving the website \textbf{SERP} ranking.
+% \item Incorporated them into the website, greatly improving the website's \textbf{Search Engine Result Page} ranking.
+\item Leveraged \textbf{Lead Forensics} to target the \textbf{98\%} of website visitors who didn't fill forms, resulting in better \textbf{conversion rates}.
+\end{itemize}
+\vspace{1mm}
+\item \textbf{Junior Developer, Intern|Terasology : Open source sand box video game} \hfill\hfill(\textit{Jun'19- May'20})
+\\ \emph{Supervisor- Rasmus Praestholm, Co Founder, Terasology}
+\begin{itemize}
+\item \textbf{Collaborated} on \textbf{Github} using \textbf{Java}, with a team of \textbf{300}
+core contributors to implement diverse gameplay settings in a voxel world.
+\item Created a detailed \textbf{product roadmap} for a new \textbf{gameplay template} using \textbf{prioritization techniques}, that was later incorporated into the game, resulting in a more immersive and enjoyable player journey.
+\item \textbf{Enhanced gameplay experience} by implementing health loss on
+entering hazards, rewards on quest completion, time synchronization on all
+players in \textbf{multiplayer game}, changes in physical attributes according to
+change in character height.
+\end{itemize}
+% \vspace{1mm}
+
+\end{itemize}
+\medskip
+{\large \textbf{\begin{tcolorbox}\textsc{Education}\end{tcolorbox}}}
+\vspace{-3mm}
+ \begin{itemize}[label = ]
+     \item  \textbf{Indian Institute of Technology, Kanpur}
+ \hfill\hfill(\textit{2018- 2022})
+ \begin{itemize}
+     \item Bachelor of Technology, Mechanical Engineering
+ \end{itemize}
+ \end{itemize}
+\medskip
+{\large \textbf{\begin{tcolorbox}\textsc{Self Project}\end{tcolorbox}}}
+\vspace{-3mm}
+\begin{itemize}[label=]
+\item \textbf{Consumer Finance Safety app} \hfill\hfill(\textit{March'23- Ongoing})\\%\textbf{Mentor: }\textbf{Prof. Manindra Agrawal}, Department of Computer and Science Engineering.
+\vspace{-4mm}
+\begin{itemize}
+\item Used \textbf{NLP} on \textbf{CFPB database} to \textbf{analyze} consumer finance complaints, spotting prevalent \href{https://1drv.ms/p/s!AqXH8a1yEzAIkGzFmNMh3YhCkpQ_?e=o1WUjg}{\textbf{predatory bank lending}} \& \textbf{crypto scams}. 
+\item Leveraged \textbf{Excel} for \textbf{keyword analysis} of \textbf{bank complaints}, identifying \textbf{predatory banks} to assess \textbf{consumer loan safety}. 
+\item Developed \textbf{Python} program with \textbf{ChatGPT}, using \textbf{Isolation Forest algorithm} for \textbf{analyzing Ethereum transactions} extracted from \textbf{blockchain}, achieving \textbf{83\% accuracy} in flagging \textbf{suspicious} activities.   
+\end{itemize}
+\end{itemize}
+\vspace{-7mm}
+%\medskip
+%{\large \textbf{\begin{tcolorbox}\textsc{Other Projects}\end{tcolorbox}}}
+%\begin{itemize}
+
+%\end{itemize}
+{\large \textbf{\begin{tcolorbox}\textsc{Skills}\end{tcolorbox}}}
+\vspace{-2.5mm}
+\begin{itemize}
+\itemsep0em
+\item \textbf{Product management: }A/B Testing, Product roadmapping, Market research, Prioritization, Competitive benchmarking
+
+\item \textbf{Technical skills: }APIs, SQL, Python scripting, Java, Javascript, Solidity
+\item \textbf{Tools: }Google Analytics, GitHub, MS Excel, MS Powerpoint
+\end{itemize}
+\vspace{.5mm}
+\medskip
+{\large \textbf{\begin{tcolorbox}\textsc{Relevant Courses}\end{tcolorbox}}}
+\vspace{-1.5mm}
+\begin{center}
+\begin{tabular}{|p{9.8cm}|p{9.8cm}|}
+\hline
+Management Decision Analysis & Fundamentals of Computing\\
+Become a Product Manager, Udemy &  Linear algebra, Complex Variables\\
+Modern Cryptology
+& Introduction to Economics  \\
+Machine Learning, Coursera, Stanford University  & The Complete Android N Developer Course, Udemy\\Algorithms Part 1 and 2, Coursera, Princeton University &  The Complete 2020 Web Development Bootcamp, Udemy\\
+\hline
+\end{tabular}
+\end{center}
+%\medskip
+%\newpage
+%\end{itemize}
+\vspace{1mm}
+{\large \textbf{\begin{tcolorbox}\textsc{Extra-Curricular Activities}\end{tcolorbox}}}
+\vspace{-3mm}
+\begin{itemize}
+\item \textbf{Led} a troupe of \textbf{25 dancers} to the \textbf{1st place} in \textbf{Dance
+Drama} in Galaxy, the \textbf{Intra-IITK Cultural Championship}.
+\item \textbf{First runner up} in
+\textbf{Group
+Dance},
+\textbf{Antaragni’19}, cultural fest of IIT Kanpur
+%\item volunteered in various events like Techkriti (workshops), Udghosh etc.
+\item \textbf{Collaborated} in a team of \textbf{4} that secured \textbf{1st place} in \textbf{Robotics} at Takneek’18, the \textbf{Intra-IITK Science and Technology Championship}.
+\item Was part of a team of \textbf{20 trekkers}, that successfully completed the \textbf{Bali Pass trek}, located at an altitude of \textbf{5000 meters}.
+\end{itemize}
+\end{document}
